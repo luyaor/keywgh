@@ -28,13 +28,13 @@ layout: home
   </div>	
   <div id="right_col">	
     <p class="lead">
-      Hi, I'm Ganghua Wang. I'm now a first year Statistics Ph.D. student in University of Minnesota. I obtain my Bachelor degree from Peking University, China.</p> <p class="research"> My research interests mainly lie on statistical learning methods and its application, such as network analysis and brain image. In both cases, the goal is to discover the hidden structure of the system, which helps better understanding the mechanism of the generation of data. Challenges such as high dimensionality and weak signals has been posed by large scale data, therefore new techniques need to be proposed. Recent works on Markov Chain Monte Carlo is a promising tool to handle high dimensional situation. Please feel free to contact me for any questions or talk. </p>
+      Hi, I'm Ganghua Wang. I'm now a first year Statistics Ph.D. student in University of Minnesota. I obtained my Bachelor degree from Peking University, China.</p> <p class="research"> My research interests mainly lie on statistical learning methods and its application, such as network analysis and brain image. In both cases, the goal is to discover the hidden structure of the system, which helps better understanding the mechanism of the generation of data. Challenges such as high dimensionality and weak signals has been posed by large scale data, therefore new techniques need to be proposed. Recent works on Markov Chain Monte Carlo is a promising tool to handle high dimensional situation. Please feel free to contact me for any question or talk. </p>
   </div>
 </div>
 
 
 
-  
+
 
 
 
