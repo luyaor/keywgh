@@ -24,12 +24,15 @@ facebook_username: keywgh
 github_username:  keywgh
 author: Ganghua Wang
 google_analytics: UA-141229469-1
-
+disqus:
+  shortname: ghostw
 # Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
