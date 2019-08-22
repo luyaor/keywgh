@@ -28,7 +28,11 @@ layout: home
     <big><i><b>Ganghua Wang</b></i></big><br /> 
     <i>Probationary PhD Candidate</i><br /> 
     <a href="https://cla.umn.edu/statistics" target="_blank"><i>School of Statistics</i></a><br /> 
-      <a href="https://twin-cities.umn.edu" target="_blank"><i>University of Minnesota</i></a></p>
+      <a href="https://twin-cities.umn.edu" target="_blank"><i>University of Minnesota</i></a><br />
+    350 Ford Hall<br />     
+    224 Church Street SE<br />
+    Minneapolis, MN 55455 
+    </p>
   </div>	
   <div id="right_col">	
     <p class="lead">
