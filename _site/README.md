@@ -1,1 +1,1 @@
-[Ganghua Wang's personal page.](keywgh.github.io)
+[Ganghua Wang's personal page.](https://keywgh.github.io)
