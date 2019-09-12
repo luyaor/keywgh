@@ -18,11 +18,11 @@ Title: STAT3011
 
 ## Schedule
 
-- Week 1, Introduction to R and RStudio
+- Week 1, Sep 4, Introduction to R and RStudio
 
   [Note](courses/LabHandout_Week1.pdf)
 <!--  https://drive.google.com/drive/folders/1bgIScNMDtiZzUpc4ZiE2O_B7dCriv1TR?usp=sharing -->
 
-- Week 2, Basic R operations, import and explore data
+- Week 2, Sep 11, Basic R operations, import and explore data
 
   [Outline](courses/Week2_Lab.pdf), [Code](courses/Week2LabRscript.R)
