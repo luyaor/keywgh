@@ -30,6 +30,9 @@ disqus:
 markdown: kramdown
 theme: minima
 
+# gdrive:
+#   sheet: "STAT3011"
+
 plugins:
   - jekyll-feed
   - jemoji
