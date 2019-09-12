@@ -27,3 +27,4 @@ Title: STAT3011
 - Week 2, Sep 11, Basic R operations, import and explore data
 
   [Outline](courses/Week2_Lab.pdf), [Code](courses/Week2LabRscript.R)
+
