@@ -32,7 +32,9 @@ theme: minima
 
 # gdrive:
 #   sheet: "STAT3011"
-
+header_pages: 
+  - about/about.md
+  - teach/index.md 
 plugins:
   - jekyll-feed
   - jemoji

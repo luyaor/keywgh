@@ -4,6 +4,17 @@ Title: STAT3011
 
 ---
 
+
+<div class="wrapper">
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+{%- for path in default_paths -%}
+ {{ path }} <br/>
+{%- endfor -%}
+
+</div>
+
+
 ## Lab Information
 
 | Course Number | STAT 3011                                               |
