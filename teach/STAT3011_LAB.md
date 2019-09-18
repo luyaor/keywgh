@@ -30,8 +30,7 @@ Title: STAT3011
 
 - Week 3, Sep 17,  Using R to analyze Cereal Dataset Example
 
-	[Homework 1](courses/HW1_3011_Fall19.pdf) **Due: Sep 22, 11:59pm.** 
+	[Homework 1](courses/HW1_3011_Fall19.pdf) **Due: Sept. 22, 11:59pm.** 
 	
-  [LabHandout](courses/Lab1_3011_Fall2019.pdf)
-  
-  <!-- , [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R) -->
+  [LabHandout](courses/Lab1_3011_Fall2019.pdf), [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R)
+
