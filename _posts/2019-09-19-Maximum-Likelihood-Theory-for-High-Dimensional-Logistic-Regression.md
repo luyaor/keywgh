@@ -12,10 +12,6 @@ Speaker: Pragya Sur (Harvard University)
 
 Logistic regression model, mainly for binary data.
 
-\$\begin{equation}
-y = |x|
-\end{equation}\$
-
 $\mathbb{P}(y=1 \vert X)=\frac{e^{b^TX}}{1+e^{b^TX}}$
 
 Classic MLE results, for fixed p, we have $\sqrt{n}(\hat{\beta}-\beta)\to N(0, I^{-1})$
