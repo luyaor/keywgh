@@ -32,9 +32,13 @@ theme: minima
 
 # gdrive:
 #   sheet: "STAT3011"
+kramdown:
+  math_engine: mathjax
+  
 header_pages: 
   - about/about.md
   - teach/index.md 
+  - blog/index.html
 plugins:
   - jekyll-feed
   - jemoji

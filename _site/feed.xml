@@ -7,10 +7,33 @@
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>“Modern Maximum-Likelihood Theory for High-Dimensional Logistic Regression&quot;</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker: Pragya Sur (Harvard University)&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Thu, 19 Sep 2019 11:00:55 -0500</pubDate>
+                <link>http://localhost:4000/seminar/2019/09/19/Maximum-Likelihood-Theory-for-High-Dimensional-Logistic-Regression.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/19/Maximum-Likelihood-Theory-for-High-Dimensional-Logistic-Regression.html</guid>
+            </item>
+        
+            <item>
                 <title>Copyright Information</title>
                         
                 
-                    <description>&lt;div id=&quot;footer&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&gt;
+                    <description>&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;footer&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;xmlns:dc=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://purl.org/dc/elements/1.1/&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;copyright&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;dc:rights&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;ni&quot;&gt;&amp;amp;copy;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;dc:dateCopyrighted&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;2019&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;property=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;dc:publisher&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Ganghua Wang&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;i&amp;gt;&lt;/span&gt;Document last modified : &lt;span class=&quot;nt&quot;&gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;i&amp;gt;&amp;lt;script&amp;gt;&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lastModified&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The results:&lt;/p&gt;
+&lt;div id=&quot;footer&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&gt;
 &lt;p id=&quot;copyright&quot; property=&quot;dc:rights&quot;&gt;&amp;copy;
   &lt;span property=&quot;dc:dateCopyrighted&quot;&gt;2019&lt;/span&gt;
   &lt;span property=&quot;dc:publisher&quot;&gt;Ganghua Wang&lt;/span&gt;
@@ -23,6 +46,19 @@
                 <pubDate>Wed, 11 Sep 2019 20:30:55 -0500</pubDate>
                 <link>http://localhost:4000/tips/2019/09/11/Copyright-Information.html</link>
                 <guid isPermaLink="true">http://localhost:4000/tips/2019/09/11/Copyright-Information.html</guid>
+            </item>
+        
+            <item>
+                <title>Where and What to Look: Learning to Understand the Visual World in Autistic Brains</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker: Catherine Zhao (University of Minnesota, Twin Cities)&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Tue, 03 Sep 2019 11:25:55 -0500</pubDate>
+                <link>http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html</guid>
             </item>
         
             <item>
