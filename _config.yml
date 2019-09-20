@@ -42,7 +42,7 @@ algolia:
   files_to_exclude: 
       - index.html
       - index.md
-      - about.md
+      - about/about.md
   # nodes_to_index: 'seminar'
 
 header_pages: 

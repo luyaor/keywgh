@@ -1,5 +1,8 @@
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="script.js"></script> -->
+
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
 <base href="{{ site.baseurl }}">
@@ -8,22 +11,37 @@
 const search = instantsearch({
   appId: '{{ site.algolia.application_id }}',
   apiKey: '{{ site.algolia.search_only_api_key }}',
-  indexName: '{{ site.algolia.index_name }}'
+  indexName: '{{ site.algolia.index_name }}',
+  // searchFunction: function(helper) {
+  //   var searchResults = $('.search-results');
+  //   if (helper.state.query === '') {
+  //     searchResults.hide();
+  //     return;
+  //   }
+  //   helper.search();
+  //   searchResults.show();
+  // }
 });
+
 const hitTemplate = function(hit) {
   let date = '';
   if (hit.date) {
     date = moment.unix(hit.date).format('MMM D, YYYY');
   }
+
   let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+
   const title = hit._highlightResult.title.value;
+
   let breadcrumbs = '';
   if (hit._highlightResult.headings) {
     breadcrumbs = hit._highlightResult.headings.map(match => {
       return `<span class="post-breadcrumb">${match.value}</span>`
     }).join(' > ')
   }
+
   const content = hit._highlightResult.html.value;
+
   return `
     <div class="post-item">
       <span class="post-meta">${date}</span>
@@ -33,13 +51,16 @@ const hitTemplate = function(hit) {
     </div>
   `;
 }
+
+
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
     placeholder: 'Search into posts...',
-    poweredBy: true
+    poweredBy: true // This is required if you're on the free Community plan
   })
 );
+
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#search-hits',
@@ -48,6 +69,13 @@ search.addWidget(
     }
   })
 );
+
+search.addWidget(
+    instantsearch.widgets.pagination({
+  container: '#search-pagination',
+})
+);
+
 search.start();
 </script>
 
