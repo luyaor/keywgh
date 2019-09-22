@@ -1,0 +1,12 @@
+data <- read.csv("http://users.stat.umn.edu/~parky/SurveyFall2019.csv", header = T)
+attach(data)
+dim(data)
+mean(ideal.weight)
+mean(ideal.weight[exercise>1])
+length(which(gender=="Female"))
+length(which(gender=="Female" & exercise>1))
+table(zzz.week)
+(joint_freq <- table(from.US, fav.season))
+margin.table(joint_freq, 1)
+margin.table(joint_freq, 2)
+
