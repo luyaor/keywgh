@@ -34,7 +34,7 @@ Title: STAT3011
 	
   [LabHandout](courses/Lab1_3011_Fall2019.pdf), [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R)
 
-- Week 3, Sept 24,  Using R to analyze Cereal Dataset Example
+- Week 4, Sept 24,  Using R to analyze Getting to know yourself survey
 
 	[Homework 2](courses/HW2.pdf) **Due: Sept. 29, 11:59pm.** 
 	
