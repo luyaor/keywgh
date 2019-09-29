@@ -19,24 +19,30 @@ Title: STAT3011
 
 ## Schedule
 
-- Week 1, Sept 3, Introduction to R and RStudio
+- Week 1, Sept. 3, Introduction to R and RStudio
 
   [Note](courses/LabHandout_Week1.pdf)
 <!--  https://drive.google.com/drive/folders/1bgIScNMDtiZzUpc4ZiE2O_B7dCriv1TR?usp=sharing -->
 
-- Week 2, Sept 10, Basic R operations, import and explore data
+- Week 2, Sept. 10, Basic R operations, import and explore data
 
   [Outline](courses/Week2_Lab.pdf), [Code](courses/Week2LabRscript.R)
 
-- Week 3, Sept 17,  Using R to analyze Cereal Dataset Example
+- Week 3, Sept. 17,  Using R to analyze Cereal Dataset Example
 
 	[Homework 1](courses/HW1_3011_Fall19.pdf) 
 	
   [LabHandout](courses/Lab1_3011_Fall2019.pdf), [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R)
 
-- Week 4, Sept 24,  Using R to analyze Getting to know yourself survey
+- Week 4, Sept. 24,  Using R to analyze Getting to know yourself survey
 
-	[Homework 2](courses/HW2.pdf) **Due: Sept. 29, 11:59pm.** 
+	[Homework 2](courses/HW2.pdf) 
 	
   [LabHandout](courses/week4lab.pdf), [LabSolution](courses/week4lab_solution.pdf), [LabCode](courses/week4lab.R)
+
+- Week 5, Oct. 1,  Using R to analyze Getting to know yourself survey
+
+	[Homework 3](courses/HW3.pdf) **Due: Oct. 6, 11:59pm.** 
+	
+  [LabHandout](courses/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/Getting To Know You Survey Dataset Details F2019.pdf)<!--[LabSolution](courses/week5lab_solution.pdf), [LabCode](courses/week5lab.R)-->
 
