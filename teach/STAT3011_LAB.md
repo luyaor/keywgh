@@ -34,13 +34,13 @@ Title: STAT3011
 	
   [LabHandout](courses/Lab1_3011_Fall2019.pdf), [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R)
 
-- Week 4, Sept. 24,  Using R to analyze Getting to know yourself survey
+- Week 4, Sept. 24,  Using R to analyze Getting to know yourself survey, Part I
 
 	[Homework 2](courses/HW2.pdf) 
 	
   [LabHandout](courses/week4lab.pdf), [LabSolution](courses/week4lab_solution.pdf), [LabCode](courses/week4lab.R)
 
-- Week 5, Oct. 1,  Using R to analyze Getting to know yourself survey
+- Week 5, Oct. 1,  Using R to analyze Getting to know yourself survey, Part II
 
 	[Homework 3](courses/HW3.pdf) **Due: Oct. 6, 11:59pm.** 
 	
