@@ -44,5 +44,7 @@ Title: STAT3011
 
 	[Homework 3](courses/HW3.pdf) **Due: Oct. 6, 11:59pm.** 
 	
-  [LabHandout](courses/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/Getting To Know You Survey Dataset Details F2019.pdf)<!--[LabSolution](courses/week5lab_solution.pdf), [LabCode](courses/week5lab.R)-->
+  [LabHandout](courses/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/Getting To Know You Survey Dataset Details F2019.pdf)
+  
+  [LabSolution](courses/week5lab_solution.pdf), [LabCode](courses/week5lab.R), [Notes for Z-score](courses/notes5.pdf)
 
