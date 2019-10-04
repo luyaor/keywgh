@@ -48,3 +48,8 @@ Title: STAT3011
   
   [LabSolution](courses/week5lab_solution.pdf), [LabCode](courses/week5lab.R), [Notes for Z-score](courses/notes5.pdf)
 
+- Week 6, Oct. 8,  Simulation Study
+
+  [Homework 4](courses/HW4_3011_Fall19.pdf) **Due: Oct. 13, 11:59pm.** 
+
+  [LabHandout](courses/Lab4Handout_3011_Fall19.pdf)
