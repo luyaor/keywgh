@@ -42,7 +42,7 @@ Title: STAT3011
 
 - Week 5, Oct. 1,  Using R to analyze Getting to know yourself survey, Part II
 
-	[Homework 3](courses/HW3.pdf) **Due: Oct. 6, 11:59pm.** 
+	[Homework 3](courses/HW3.pdf) 
 	
   [LabHandout](courses/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/Getting To Know You Survey Dataset Details F2019.pdf)
   
@@ -52,4 +52,5 @@ Title: STAT3011
 
   [Homework 4](courses/HW4_3011_Fall19.pdf) **Due: Oct. 13, 11:59pm.** 
 
-  [LabHandout](courses/Lab4Handout_3011_Fall19.pdf)
+  [LabHandout](courses/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/Population v.s. Sample.pdf)
+
