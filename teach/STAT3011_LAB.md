@@ -50,7 +50,10 @@ Title: STAT3011
 
 - Week 6, Oct. 8,  Simulation Study
 
-  [Homework 4](courses/HW4_3011_Fall19.pdf) **Due: Oct. 13, 11:59pm.** 
+  [Homework 4](courses/HW4_3011_Fall19.pdf) 
 
   [LabHandout](courses/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/Population v.s. Sample.pdf)
 
+- Week 7, Oct. 14,  Review for midterm.
+
+  
