@@ -56,4 +56,10 @@ Title: STAT3011
 
 - Week 7, Oct. 14,  Review for midterm.
 
-  
+  **Midterm**
+
+  **Time: Thursday Oct. 17, 6:00-8:00pm **
+
+  **Location: Bruininks Hall220**
+
+   
