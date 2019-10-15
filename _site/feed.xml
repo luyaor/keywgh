@@ -7,6 +7,19 @@
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>“Latex related topics&quot;</title>
+                        
+                
+                    <description>&lt;h2 id=&quot;for-symbols&quot;&gt;For symbols&lt;/h2&gt;
+
+</description>
+                
+                <pubDate>Thu, 10 Oct 2019 22:25:55 -0500</pubDate>
+                <link>http://localhost:4000/tools/2019/10/10/Latex-related.html</link>
+                <guid isPermaLink="true">http://localhost:4000/tools/2019/10/10/Latex-related.html</guid>
+            </item>
+        
+            <item>
                 <title>“Modern Maximum-Likelihood Theory for High-Dimensional Logistic Regression&quot;</title>
                         
                 

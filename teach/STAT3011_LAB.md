@@ -58,8 +58,8 @@ Title: STAT3011
 
   **Midterm**
 
-  **Time: Thursday Oct. 17, 6:00-8:00pm **
+  **Time: Thursday Oct. 17, 6:00-8:00 pm**
 
-  **Location: Bruininks Hall220**
+  **Location: Bruininks Hall 220**
 
    
