@@ -61,7 +61,8 @@ Title: STAT3011
   Midterm
   
 - Week 8, Oct. 22,  Simulation study of Confidence Interval.
-	[Homework 5](courses/stat3011_fall2019_hw5.pdf) 
 	
+	[Homework 5](courses/stat3011_fall2019_hw5.pdf)    **Due: Oct. 27, 11:59 pm**
+  
   [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd)
 
