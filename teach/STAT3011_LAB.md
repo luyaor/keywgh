@@ -54,15 +54,14 @@ Title: STAT3011
 
   [LabHandout](courses/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/Population v.s. Sample.pdf)
 
-- Week 7, Oct. 14,  Review for midterm.
+- Week 7, Oct. 15,  Review for midterm.
 
   [Notes for pnorm, qnorm, Z-score (updated)](courses/notes5.pdf)
 
-  **Midterm**
-
-  **Time: Thursday Oct. 17, 6:00-8:00 pm**
-
-  **Location: Bruininks Hall 220**
-
-  Good luck :)
+  Midterm
+  
+- Week 8, Oct. 22,  Simulation study of Confidence Interval.
+	[Homework 5](courses/stat3011_fall2019_hw5.pdf) 
+	
+  [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd)
 
