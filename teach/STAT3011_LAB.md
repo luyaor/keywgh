@@ -64,5 +64,5 @@ Title: STAT3011
 	
 	[Homework 5](courses/stat3011_fall2019_hw5.pdf)    **Due: Oct. 27, 11:59 pm**
   
-  [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd)
+  [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd), [Notes_CI](courses/notes8.pdf)
 
