@@ -66,5 +66,8 @@ Title: STAT3011
   
   [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd), [Notes_CI](courses/notes8.pdf)
 
-- Week 9, Oct. 29,  Coming soon...
+- Week 9, Oct. 29, Hypothesis testing for proportion.
 
+	[Homework 6]()    **Due:  Nov. 3, 11:59 pm**
+  
+  [LabHandout(pdf)](courses/LabWeek9.pdf), 
