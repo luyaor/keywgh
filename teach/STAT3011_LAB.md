@@ -62,12 +62,14 @@ Title: STAT3011
   
 - Week 8, Oct. 22,  Simulation study of Confidence Interval.
 	
-	[Homework 5](courses/stat3011_fall2019_hw5.pdf)    **Due: Tuesday Oct. 29, 11:59 pm**
+	[Homework 5](courses/stat3011_fall2019_hw5.pdf)  
   
   [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd), [Notes_CI](courses/notes8.pdf)
 
 - Week 9, Oct. 29, Hypothesis testing for proportion.
 
-	[Homework 6]()    **Due:  Nov. 3, 11:59 pm**
+	[Homework 6](courses/HW6_3011_Fall19.pdf)    **Due:  Nov. 3, 11:59 pm**
   
-  [LabHandout(pdf)](courses/LabWeek9.pdf), 
+  [LabHandout](courses/LabWeek9.pdf), [LabSolution](courses/LabWeek9Solutions.pdf), [Notes9](courses/Hypothesis testing for proportion.pdf)
+
+
