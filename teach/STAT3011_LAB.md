@@ -72,4 +72,9 @@ Title: STAT3011
   
   [LabHandout](courses/LabWeek9.pdf), [LabSolution](courses/LabWeek9Solutions.pdf), [Notes9](courses/Hypothesis testing for proportion.pdf)
 
+- Week 10, Nov. 5, Hypothesis testing for normal distribution.
+
+	[Homework 7](courses/HW7.pdf)    **Due:  Nov. 10, 11:59 pm**
+  
+  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R) <!-- , [LabSolution](courses/LabWeek10Solutions.pdf) -->
 

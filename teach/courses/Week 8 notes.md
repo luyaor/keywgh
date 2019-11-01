@@ -17,11 +17,11 @@ Let $n$ be the sample size, and we draw a sample from population as
 
 $X_1, X_2, \cdots, X_{n}$
 
-We can obtain sample mean $\bar{x} = \frac{X_1+X_2+\cdots+X_{n}}{n}$. The sampling distribution has standard error $\sigma_{\bar{X}}=\frac{\sigma}{\sqrt{n}}$. (From Chapter 7)
+We can obtain sample mean $\bar{x} = \frac{X_1+X_2+\cdots+X_{n}}{n}$ and sample standard error $se=\hat{\sigma}^2/\sqrt{n}$ ($\hat{\sigma}^2$ is the sample variance). For proportion data, we use estimated standard deviation for sample mean instead, which is given by $se=\frac{\hat{p}(1-\hat{p})}{n}$. 
 
 If  we have confidence level as $p$ (e.g. 95%), then we define $\alpha=1-p$. 
 
-We call $[\bar{x}-z_{\alpha}\sigma_{\bar{X}}, \bar{x}+z_{\alpha}\sigma_{\bar{X}}]$ as the $p$-CI for this sample.
+We call $[\bar{x}-z_{\alpha}se, \bar{x}+z_{\alpha}se]$ as the $p$-CI for this sample.
 
 Where $z_{\alpha}=qt(1-\frac{\alpha}{2}, df=n-1)$, $qt()$ is quantile for t distribution, df is degree of freedom.
 
