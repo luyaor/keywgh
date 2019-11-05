@@ -76,5 +76,5 @@ Title: STAT3011
 
 	[Homework 7](courses/HW7.pdf)    **Due:  Nov. 10, 11:59 pm**
   
-  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R), [LabSolution](courses/LabWeek10Solutions.pdf), [Notes9](courses/Notes10.pdf)
+  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R), [LabSolution](courses/LabWeek10Solutions.pdf), [Notes10](courses/Notes10.pdf)
 

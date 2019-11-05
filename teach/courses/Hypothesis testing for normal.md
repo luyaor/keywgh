@@ -6,7 +6,7 @@ Some comments:
 
 - If we can reject $H_0$ on level $\alpha$, then we can reject it on any higher level. (The reverse is not true.)
 
-- Theorem:
+- Theorem: (For two-sided test)
 
   A $c$-level CI includes $\mu_0$ $\Leftrightarrow$ Retain $H_0: \mu=\mu_0$ with $\alpha=1-c$ $\Leftrightarrow p-value>\alpha$
 
