@@ -16,8 +16,8 @@ for (i in 1:20) {
 	p_value = t.test(samp, mu=475, conf.level=1-alpha)$p.value
 	
   # Manually calculate p value
-	# test.statistic<-(mean(samp)-475)/(sd(samp)/sqrt(25))
-	# p_value<-2*pt(abs(test.statistic),df=24,lower=F)
+	test.statistic<-(mean(samp)-475)/(sd(samp)/sqrt(25))
+	p_value<-2*pt(abs(test.statistic),df=24,lower=F)
 	
 	cat("Day",i,":","P-value=",round(p_value,3),"\n")
 	if (p_value <= alpha){reject = reject+1}  # Count the rejection

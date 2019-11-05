@@ -68,7 +68,7 @@ Title: STAT3011
 
 - Week 9, Oct. 29, Hypothesis testing for proportion.
 
-	[Homework 6](courses/HW6_3011_Fall19.pdf)    **Due:  Nov. 3, 11:59 pm**
+	[Homework 6](courses/HW6_3011_Fall19.pdf)   
   
   [LabHandout](courses/LabWeek9.pdf), [LabSolution](courses/LabWeek9Solutions.pdf), [Notes9](courses/Hypothesis testing for proportion.pdf)
 
@@ -76,5 +76,5 @@ Title: STAT3011
 
 	[Homework 7](courses/HW7.pdf)    **Due:  Nov. 10, 11:59 pm**
   
-  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R) <!-- , [LabSolution](courses/LabWeek10Solutions.pdf) -->
+  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R), [LabSolution](courses/LabWeek10Solutions.pdf), [Notes9](courses/Notes10.pdf)
 
