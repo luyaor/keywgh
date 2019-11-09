@@ -78,3 +78,10 @@ Title: STAT3011
   
   [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R), [LabSolution](courses/LabWeek10Solutions.pdf), [Notes10](courses/Notes10.pdf)
 
+- Week 11, Nov. 12, Hypothesis testing for normal distribution.
+
+	[Homework 8](courses/HW8_3011_Fall19.pdf)    **Due:  Nov. 17, 11:59 pm**
+  
+  [LabHandout](courses/Lab8_3011_Fall19.pdf)
+
+
