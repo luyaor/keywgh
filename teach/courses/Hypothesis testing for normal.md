@@ -1,6 +1,6 @@
 ## Hypothesis testing for normal.
 
-Notation: Confidence level  $c$ ; Significant level  $\alpha=1-c$ ; Sample size is n
+Notation: Confidence level  $c$ ; Significance level  $\alpha=1-c$ ; Sample size is n
 
 Some comments:
 
