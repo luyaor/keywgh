@@ -54,11 +54,11 @@ Title: STAT3011
 
   [LabHandout](courses/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/Population v.s. Sample.pdf)
 
-- Week 7, Oct. 15,  Review for midterm.
+- Week 7, Oct. 15,  Review for midterm1.
 
   [Notes for pnorm, qnorm, Z-score (updated)](courses/notes5.pdf)
 
-  Midterm
+  Midterm1
   
 - Week 8, Oct. 22,  Simulation study of Confidence Interval.
 	
@@ -80,8 +80,17 @@ Title: STAT3011
 
 - Week 11, Nov. 12, Useful R commands for practical assignment.
 
-	[Homework 8](courses/HW8_3011_Fall19.pdf)    **Due:  Nov. 17, 11:59 pm**
+	[Homework 8](courses/HW8_3011_Fall19.pdf)    **Due:  Nov. 18, 11:59 pm**
   
   [LabHandout](courses/Lab8_3011_Fall19.pdf), [LabSolution](courses/Lab8Solution_3011_Fall19.pdf)
 
 
+- Week 12, Nov. 19, Review for midterm2.
+
+  I’ll talk about Problem V of Exam2ASolution_3011_S19 in this lab. If you have any other problems want me to cover please send me an email in advance. 
+
+  **Midterm2**
+
+  **Time: Thursday, Nov. 21, 6:00 pm - 8:00 pm**
+
+  **Location: Willey Hall 175**
