@@ -32,11 +32,16 @@ layout: home
     224 Church Street SE<br />
     Minneapolis, MN 55455 
     </p>
+    <img  class="img-circle avatar" alt="Stat" src="../assets/img/department.jpeg" width="200">
   </div>	
   <div id="right_col">	
     <p class="lead">
       Hi, I'm Ganghua Wang. I'm now a first-year Statistics Ph.D. student at the University of Minnesota. I obtained my BS degree from Peking University.</p> <p class="research">My research interests mainly lie in statistical learning methods and their applications, such as network analysis and neuroimaging. In both cases, the goal is to discover the hidden structure of the system, which helps better understanding the mechanism of the generating process of data. Challenges such as high dimensionality and weak signals have been posed by large scale data, therefore new techniques need to be proposed. Recent works on Markov Chain Monte Carlo is a promising tool to handle high dimensional situation.</p> <p class="end"> If you're interested in any of the areas and would like to discuss research or collaboration opportunities, feel free to email me or drop by my office.</p>
+      <p class='ps'>
+      <i>P.S. Left is a picture of Ford Hall.</i>
+      </p>
   </div>
+
 </div>
 
 

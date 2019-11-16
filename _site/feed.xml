@@ -7,6 +7,31 @@
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>“Jekyll related topics&quot;</title>
+                        
+                
+                    <description>&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+</description>
+                
+                <pubDate>Sat, 16 Nov 2019 15:17:55 -0600</pubDate>
+                <link>http://localhost:4000/tools/2019/11/16/Jekyll-related.html</link>
+                <guid isPermaLink="true">http://localhost:4000/tools/2019/11/16/Jekyll-related.html</guid>
+            </item>
+        
+            <item>
+                <title>“Effective communication&quot;</title>
+                        
+                
+                    <description>&lt;p&gt;http://www.lisabmarshall.com&lt;/p&gt;
+</description>
+                
+                <pubDate>Thu, 31 Oct 2019 21:22:55 -0500</pubDate>
+                <link>http://localhost:4000/tools/2019/10/31/Effective-Communication.html</link>
+                <guid isPermaLink="true">http://localhost:4000/tools/2019/10/31/Effective-Communication.html</guid>
+            </item>
+        
+            <item>
                 <title>“Latex related topics&quot;</title>
                         
                 
