@@ -80,14 +80,12 @@ Title: STAT3011
 
 - Week 11, Nov. 12, Useful R commands for practical assignment.
 
-	[Homework 8](courses/HW8_3011_Fall19.pdf)    **Due:  Nov. 18, 11:59 pm**
+	[Homework 8](courses/HW8_3011_Fall19.pdf)    
   
   [LabHandout](courses/Lab8_3011_Fall19.pdf), [LabSolution](courses/Lab8Solution_3011_Fall19.pdf)
 
 
 - Week 12, Nov. 19, Review for midterm2.
-
-  I’ll talk about Problem V of Exam2ASolution_3011_S19 in this lab. If you have any other problems want me to cover please send me an email in advance. 
 
   **Midterm2**
 
