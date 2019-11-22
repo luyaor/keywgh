@@ -87,8 +87,11 @@ Title: STAT3011
 
 - Week 12, Nov. 19, Review for midterm2.
 
-  **Midterm2**
+  Midterm2
 
-  **Time: Thursday, Nov. 21, 6:00 pm - 8:00 pm**
+- Week 13, Nov. 26, ANOVA.
 
-  **Location: Willey Hall 175**
+  All sections are welcomed to come, though I know I shouldn’t have much expection on attendence for Thanksgiving’s coming.  
+
+  Afterall, happy holiday and enjoy your break :)
+
