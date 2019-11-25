@@ -58,8 +58,6 @@ Title: STAT3011
 
   [Notes for pnorm, qnorm, Z-score (updated)](courses/notes5.pdf)
 
-  Midterm1
-  
 - Week 8, Oct. 22,  Simulation study of Confidence Interval.
 	
 	[Homework 5](courses/stat3011_fall2019_hw5.pdf)  
@@ -87,11 +85,13 @@ Title: STAT3011
 
 - Week 12, Nov. 19, Review for midterm2.
 
-  Midterm2
-
 - Week 13, Nov. 26, ANOVA.
 
   All sections are welcomed to come, though I know I shouldn’t have much expection on attendence for Thanksgiving’s coming.  
 
   Afterall, happy holiday and enjoy your break :)
+
+	[Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 1, 11:59pm** 
+  
+  [LabHandout](courses/Lab9_3011_Fall19.pdf)
 
