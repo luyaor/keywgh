@@ -87,13 +87,11 @@ Title: STAT3011
 
 - Week 13, Nov. 26, ANOVA.
 
-  All sections are welcomed to come, though I know I shouldn’t have much expection on attendence for Thanksgiving’s coming.  
+  Happy holiday and enjoy your break :)
 
-  Afterall, happy holiday and enjoy your break :)
+  [Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
 
-	[Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
-  
-  [LabHandout](courses/Lab9_3011_F19.pdf)
+	[LabHandout](courses/Lab9_3011_F19.pdf), [LabSolution](courses/Lab9Solution_3011_F19.pdf)
   
 
 <!-- <img  class="img-circle avatar" alt="normal" src="../assets/img/chickenstats.jpg" width="400"><img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400"><figcaption><i>“Three st.dev.s include 99.7% of the data”</i></figcaption></figure> </div>  -->
