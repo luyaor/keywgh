@@ -95,6 +95,22 @@ Title: STAT3011
   
   [LabHandout](courses/Lab9_3011_Fall19.pdf)
 
-<div id='pic'>
-<img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400">
-</div> 
+<!-- <img  class="img-circle avatar" alt="normal" src="../assets/img/chickenstats.jpg" width="400"><img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400"><figcaption><i>“Three st.dev.s include 99.7% of the data”</i></figcaption></figure> </div>  -->
+
+
+
+<div class="container">
+    <div style="float:left;width:49%">
+	    <img src="../assets/img/chickenstats.jpg">
+	    <figcaption><i>“Three st.dev.s include 99.7% of the data.”</i></figcaption>
+    </div>
+    <div style="float:right;width:49%">
+	    <img src="../assets/img/turkey.jpg">
+    </div>
+</div>
+
+
+
+
+
+
