@@ -91,7 +91,10 @@ Title: STAT3011
 
   Afterall, happy holiday and enjoy your break :)
 
-	[Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 1, 11:59pm** 
+	[Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
   
   [LabHandout](courses/Lab9_3011_Fall19.pdf)
 
+<div id='pic'>
+<img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400">
+</div> 
