@@ -93,7 +93,8 @@ Title: STAT3011
 
 	[Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
   
-  [LabHandout](courses/Lab9_3011_Fall19.pdf)
+  [LabHandout](courses/Lab9_3011_F19.pdf)
+  
 
 <!-- <img  class="img-circle avatar" alt="normal" src="../assets/img/chickenstats.jpg" width="400"><img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400"><figcaption><i>“Three st.dev.s include 99.7% of the data”</i></figcaption></figure> </div>  -->
 
