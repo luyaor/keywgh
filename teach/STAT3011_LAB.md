@@ -92,21 +92,27 @@ Title: STAT3011
   [Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
 
 	[LabHandout](courses/Lab9_3011_F19.pdf), [LabSolution](courses/Lab9Solution_3011_F19.pdf)
+
+
+<div>
+<p><img style="float:left;width:49%" src="../assets/img/chickenstats.jpg">
+<img style="float:right;width:49%" src="../assets/img/turkey.jpg"><br /> <i>"Three sd.s cover 99.7% of the data"</i></p>
+</div>
+
+
+
+
+
+- Week 14, Dec. 3, TBD.
+
+  **Please help me fill out TA evaluation form if you can come!** This form is **anonymous** and I’m not able to access it until next semester. Your feedback is important to me. 
+
   
 
-<!-- <img  class="img-circle avatar" alt="normal" src="../assets/img/chickenstats.jpg" width="400"><img  class="img-circle avatar" alt="turkey" src="../assets/img/turkey.jpg" width="400"><figcaption><i>“Three st.dev.s include 99.7% of the data”</i></figcaption></figure> </div>  -->
+- Week 15, Dec. 10, TBD.
 
+  All sections are welcomed. 
 
-
-<div class="container">
-    <div style="float:left;width:49%">
-	    <img src="../assets/img/chickenstats.jpg">
-	    <figcaption><i>“Three st.dev.s include 99.7% of the data.”</i></figcaption>
-    </div>
-    <div style="float:right;width:49%">
-	    <img src="../assets/img/turkey.jpg">
-    </div>
-</div>
 
 
 
