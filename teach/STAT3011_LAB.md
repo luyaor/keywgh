@@ -89,7 +89,7 @@ Title: STAT3011
 
   Happy holiday and enjoy your break :)
 
-  [Homework 9](courses/HW9_3011_F19.pdf)   **Due: Dec. 2, 11:59pm** 
+  [Homework 9](courses/HW9_3011_F19.pdf)  
 
 	[LabHandout](courses/Lab9_3011_F19.pdf), [LabSolution](courses/Lab9Solution_3011_F19.pdf)
 
@@ -107,17 +107,12 @@ Title: STAT3011
 
   **Please help me fill out TA evaluation form if you can come!** This form is **anonymous** and I’m not able to access it until next semester. Your feedback is important to me. 
 
-  [Homework 10](courses/stat3011_fall2019_hw10.pdf)   [HW_R_problem_data](courses/STAT3011_HW10_R_problem_data.txt) **Due: Dec. 11, 11:59pm** *Last HW, cong!*
+  [Homework 10](courses/stat3011_fall2019_hw10.pdf), [HW_R_problem_data](courses/STAT3011_HW10_R_problem_data.txt) **Due: Dec. 11, 11:59pm** 
 
   [LabHandout](courses/STAT3011_Fall2019_Week14Lab.pdf)
 
 - Week 15, Dec. 10, TBD.
 
   All sections are welcomed. 
-
-
-
-
-
-
-
+  
+  
