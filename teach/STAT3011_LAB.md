@@ -111,8 +111,12 @@ Title: STAT3011
 
   [LabHandout](courses/STAT3011_Fall2019_Week14Lab.pdf)
 
-- Week 15, Dec. 10, TBD.
+- Week 15, Dec. 10, More on linear regression.
 
-  All sections are welcomed. 
+  This is the last lab this semester. We’ll talk about another example of linear regression, involving fitting a lm, interpreting the results, predicting, hypothesis testing and diagnosis. Attendance is not required(as always), due to the weather. 
+  
+  All sections are welcomed. Keep warm!
+  
+  [LabHandout](courses/Lab10.3011.Spring19.pdf), [LabSolution](courses/Lab10.3011.Spring19.Solution.pdf)
   
   
