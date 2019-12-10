@@ -17,70 +17,76 @@ Title: STAT3011
 
 
 
+***Writing at the end of semester*:**
+
+Thanks all who came to my lab this semester. I do hope you can learn sth. from my lab, especially how we think about a problem in a statistical way. I also learned a lot from you like how to better communicate with students. Also, it’s my honor to received a thanks letter from one of you. I really appreciate that and it encourages me a lot. Good luck to your final and thank all of you.
+
+*Warning:* This page may be removed or links to materials may be unavailable in the future.
+
 ## Schedule
 
 - Week 1, Sept. 3, Introduction to R and RStudio
 
-  [Note](courses/LabHandout_Week1.pdf)
+  [Note](courses/STAT3011/LabHandout_Week1.pdf)
 <!--  https://drive.google.com/drive/folders/1bgIScNMDtiZzUpc4ZiE2O_B7dCriv1TR?usp=sharing -->
 
 - Week 2, Sept. 10, Basic R operations, import and explore data
 
-  [Outline](courses/Week2_Lab.pdf), [Code](courses/Week2LabRscript.R)
+  [Outline](courses/STAT3011/Week2_Lab.pdf), [Code](courses/STAT3011/Week2LabRscript.R)
 
 - Week 3, Sept. 17,  Using R to analyze Cereal Dataset Example
 
-	[Homework 1](courses/HW1_3011_Fall19.pdf) 
+	[Homework 1](courses/STAT3011/HW1_3011_Fall19.pdf) 
 	
-  [LabHandout](courses/Lab1_3011_Fall2019.pdf), [LabSolution](courses/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/Lab1_3011_Fall19.R)
+  [LabHandout](courses/STAT3011/Lab1_3011_Fall2019.pdf), [LabSolution](courses/STAT3011/Lab1Sol_3011_Fall2019.pdf), [LabCode](courses/STAT3011/Lab1_3011_Fall19.R)
 
 - Week 4, Sept. 24,  Using R to analyze Getting to know yourself survey, Part I
 
-	[Homework 2](courses/HW2.pdf) 
+	[Homework 2](courses/STAT3011/HW2.pdf) 
 	
-  [LabHandout](courses/week4lab.pdf), [LabSolution](courses/week4lab_solution.pdf), [LabCode](courses/week4lab.R)
+  [LabHandout](courses/STAT3011/week4lab.pdf), [LabSolution](courses/STAT3011/week4lab_solution.pdf), [LabCode](courses/STAT3011/week4lab.R)
 
 - Week 5, Oct. 1,  Using R to analyze Getting to know yourself survey, Part II
 
-	[Homework 3](courses/HW3.pdf) 
+	[Homework 3](courses/STAT3011/HW3.pdf) 
 	
-  [LabHandout](courses/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/Getting To Know You Survey Dataset Details F2019.pdf)
+  [LabHandout](courses/STAT3011/week5lab.pdf), [Getting To Know You Survey Dataset Details F2019](courses/STAT3011/Getting To Know You Survey Dataset Details F2019.pdf)
   
-  [LabSolution](courses/week5lab_solution.pdf), [LabCode](courses/week5lab.R), [Notes for Z-score](courses/notes5.pdf)
+  [LabSolution](courses/STAT3011/week5lab_solution.pdf), [LabCode](courses/STAT3011/week5lab.R), [Notes for Z-score](courses/STAT3011/notes5.pdf)
 
 - Week 6, Oct. 8,  Simulation Study
 
-  [Homework 4](courses/HW4_3011_Fall19.pdf) 
+  [Homework 4](courses/STAT3011/HW4_3011_Fall19.pdf) 
 
-  [LabHandout](courses/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/Population v.s. Sample.pdf)
+  [LabHandout](courses/STAT3011/Lab4Handout_3011_Fall19.pdf), [LabSolution](courses/STAT3011/Lab4HandoutSol_3011_Fall19.pdf),  [Population v.s. Sample Notes](courses/STAT3011/Population v.s. Sample.pdf)
 
 - Week 7, Oct. 15,  Review for midterm1.
 
-  [Notes for pnorm, qnorm, Z-score (updated)](courses/notes5.pdf)
+  [Notes for pnorm, qnorm, Z-score (updated)](courses/STAT3011/notes5.pdf)
 
 - Week 8, Oct. 22,  Simulation study of Confidence Interval.
 	
-	[Homework 5](courses/stat3011_fall2019_hw5.pdf)  
+	[Homework 5](courses/STAT3011/stat3011_fall2019_hw5.pdf)  
   
-  [LabHandout(pdf)](courses/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/Lab4HandoutSol_3011_Fall19.rmd), [Notes_CI (updated)](courses/notes8.pdf)
+  [LabHandout(pdf)](courses/STAT3011/STAT3011_Fall2019_Week8Lab.pdf), [LabCode(R markdown)](courses/STAT3011/Lab4HandoutSol_3011_Fall19.rmd), [Notes_CI (updated)](courses/STAT3011/notes8.pdf)
 
 - Week 9, Oct. 29, Hypothesis testing for proportion.
 
-	[Homework 6](courses/HW6_3011_Fall19.pdf)   
+	[Homework 6](courses/STAT3011/HW6_3011_Fall19.pdf)   
   
-  [LabHandout](courses/LabWeek9.pdf), [LabSolution](courses/LabWeek9Solutions.pdf), [Notes9](courses/Hypothesis testing for proportion.pdf)
+  [LabHandout](courses/STAT3011/LabWeek9.pdf), [LabSolution](courses/STAT3011/LabWeek9Solutions.pdf), [Notes9](courses/STAT3011/Hypothesis testing for proportion.pdf)
 
 - Week 10, Nov. 5, Hypothesis testing for normal distribution.
 
-	[Homework 7](courses/HW7.pdf)   
+	[Homework 7](courses/STAT3011/HW7.pdf)   
   
-  [LabHandout](courses/LabWeek10.pdf), [LabCode](courses/Lab10Script.R), [LabSolution](courses/LabWeek10Solutions.pdf), [Notes10](courses/Notes10.pdf)
+  [LabHandout](courses/STAT3011/LabWeek10.pdf), [LabCode](courses/STAT3011/Lab10Script.R), [LabSolution](courses/STAT3011/LabWeek10Solutions.pdf), [Notes10](courses/STAT3011/Notes10.pdf)
 
 - Week 11, Nov. 12, Useful R commands for practical assignment.
 
-	[Homework 8](courses/HW8_3011_Fall19.pdf)    
+	[Homework 8](courses/STAT3011/HW8_3011_Fall19.pdf)    
   
-  [LabHandout](courses/Lab8_3011_Fall19.pdf), [LabSolution](courses/Lab8Solution_3011_Fall19.pdf)
+  [LabHandout](courses/STAT3011/Lab8_3011_Fall19.pdf), [LabSolution](courses/STAT3011/Lab8Solution_3011_Fall19.pdf)
 
 
 - Week 12, Nov. 19, Review for midterm2.
@@ -89,9 +95,9 @@ Title: STAT3011
 
   Happy holiday and enjoy your break :)
 
-  [Homework 9](courses/HW9_3011_F19.pdf)  
+  [Homework 9](courses/STAT3011/HW9_3011_F19.pdf)  
 
-	[LabHandout](courses/Lab9_3011_F19.pdf), [LabSolution](courses/Lab9Solution_3011_F19.pdf)
+	[LabHandout](courses/STAT3011/Lab9_3011_F19.pdf), [LabSolution](courses/STAT3011/Lab9Solution_3011_F19.pdf)
 
 
 <div>
@@ -105,16 +111,14 @@ Title: STAT3011
 
 - Week 14, Dec. 3, Linear regression.
 
-  [Homework 10](courses/stat3011_fall2019_hw10.pdf), [HW_R_problem_data](courses/STAT3011_HW10_R_problem_data.txt) 
+  [Homework 10](courses/STAT3011/stat3011_fall2019_hw10.pdf), [HW_R_problem_data](courses/STAT3011/STAT3011_HW10_R_problem_data.txt) 
 
-  [LabHandout](courses/STAT3011_Fall2019_Week14Lab.pdf)
+  [LabHandout](courses/STAT3011/STAT3011_Fall2019_Week14Lab.pdf)
 
 - Week 15, Dec. 10, More on linear regression.
 
-  This is the last lab this semester. We’ll talk about another example of linear regression, involving fitting a lm, interpreting the results, predicting, hypothesis testing and diagnosis. Attendance is not required(as usual) due to the weather. 
+  Keep warm!
   
-  All sections are welcomed. Keep warm!
-  
-  [LabHandout](courses/Lab10.3011.Spring19.pdf), [LabSolution](courses/Lab10.3011.Spring19.Solution.pdf)
+  [LabHandout](courses/STAT3011/Lab10.3011.Spring19.pdf), [LabSolution](courses/STAT3011/Lab10.3011.Spring19.Solution.pdf)
   
   
