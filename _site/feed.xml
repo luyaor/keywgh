@@ -7,6 +7,19 @@
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Improved Observation-based Simulations of Temperature and Humidity Accounting for Projected Variability Changes from a Climate Model</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker:   Andrew Poppick, Assistant Professor of Statistics at Carleton College&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Thu, 21 Nov 2019 10:00:55 -0600</pubDate>
+                <link>http://localhost:4000/seminar/2019/11/21/Improved-Observation-based-Simulations-of-Temperature-and-Humidity-Accounting-for-Projected-Variability-Changes-from-a-Climate-Model.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/11/21/Improved-Observation-based-Simulations-of-Temperature-and-Humidity-Accounting-for-Projected-Variability-Changes-from-a-Climate-Model.html</guid>
+            </item>
+        
+            <item>
                 <title>“Jekyll related topics&quot;</title>
                         
                 
@@ -17,6 +30,19 @@
                 <pubDate>Sat, 16 Nov 2019 15:17:55 -0600</pubDate>
                 <link>http://localhost:4000/tools/2019/11/16/Jekyll-related.html</link>
                 <guid isPermaLink="true">http://localhost:4000/tools/2019/11/16/Jekyll-related.html</guid>
+            </item>
+        
+            <item>
+                <title>Applying Principles of Statistical Design to Adaptive Probabilistic Differential Equation Solvers</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker:   Oksana Chkrebtii, Department of Statistics, The Ohio State University&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Thu, 07 Nov 2019 10:00:55 -0600</pubDate>
+                <link>http://localhost:4000/seminar/2019/11/07/Applying-Principles-of-Statistical-Design-to-Adaptive-Probabilistic-Differential-Equation-Solvers.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/11/07/Applying-Principles-of-Statistical-Design-to-Adaptive-Probabilistic-Differential-Equation-Solvers.html</guid>
             </item>
         
             <item>
@@ -32,6 +58,19 @@
             </item>
         
             <item>
+                <title>“Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration&quot;</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker:  Yang Chen, (Department of Statistics &amp;amp; MIDAS, University of Michigan)&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Thu, 24 Oct 2019 11:00:55 -0500</pubDate>
+                <link>http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html</guid>
+            </item>
+        
+            <item>
                 <title>“Latex related topics&quot;</title>
                         
                 
@@ -42,6 +81,31 @@
                 <pubDate>Thu, 10 Oct 2019 22:25:55 -0500</pubDate>
                 <link>http://localhost:4000/tools/2019/10/10/Latex-related.html</link>
                 <guid isPermaLink="true">http://localhost:4000/tools/2019/10/10/Latex-related.html</guid>
+            </item>
+        
+            <item>
+                <title>“Interface of Statistics and Computing&quot;</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker: Yazhen Wang (University of Wisconsin-Madison)&lt;/p&gt;
+</description>
+                
+                <pubDate>Thu, 10 Oct 2019 11:00:55 -0500</pubDate>
+                <link>http://localhost:4000/seminar/2019/10/10/Interface-of-Statistics-and-Computing.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/10/10/Interface-of-Statistics-and-Computing.html</guid>
+            </item>
+        
+            <item>
+                <title>“Convergence complexity analysis for Markov Chain&quot;</title>
+                        
+                
+                    <description>&lt;p&gt;Speaker: Qian Qin (University of Minnesota - TC)&lt;/p&gt;
+
+</description>
+                
+                <pubDate>Tue, 24 Sep 2019 14:30:55 -0500</pubDate>
+                <link>http://localhost:4000/seminar/2019/09/24/Convergence-complexity-analysis-for-Markov-Chain.html</link>
+                <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/24/Convergence-complexity-analysis-for-Markov-Chain.html</guid>
             </item>
         
             <item>
@@ -84,45 +148,6 @@
                 <pubDate>Wed, 11 Sep 2019 20:30:55 -0500</pubDate>
                 <link>http://localhost:4000/tips/2019/09/11/Copyright-Information.html</link>
                 <guid isPermaLink="true">http://localhost:4000/tips/2019/09/11/Copyright-Information.html</guid>
-            </item>
-        
-            <item>
-                <title>Where and What to Look: Learning to Understand the Visual World in Autistic Brains</title>
-                        
-                
-                    <description>&lt;p&gt;Speaker: Catherine Zhao (University of Minnesota, Twin Cities)&lt;/p&gt;
-
-</description>
-                
-                <pubDate>Tue, 03 Sep 2019 11:25:55 -0500</pubDate>
-                <link>http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html</link>
-                <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html</guid>
-            </item>
-        
-            <item>
-                <title>Feature Representation for Small Sample Sizes in Convolutional Neural Networks</title>
-                        
-                
-                    <description>&lt;p&gt;Speaker: Nick Wornson&lt;/p&gt;
-
-</description>
-                
-                <pubDate>Thu, 29 Aug 2019 11:03:55 -0500</pubDate>
-                <link>http://localhost:4000/seminar/2019/08/29/Feature-Representation-for-Small-Sample-Sizes-in-Convolutional-Neural-Networks.html</link>
-                <guid isPermaLink="true">http://localhost:4000/seminar/2019/08/29/Feature-Representation-for-Small-Sample-Sizes-in-Convolutional-Neural-Networks.html</guid>
-            </item>
-        
-            <item>
-                <title>Welcome to Jekyll!</title>
-                        
-                
-                    <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-</description>
-                
-                <pubDate>Wed, 29 May 2019 08:30:55 -0500</pubDate>
-                <link>http://localhost:4000/jekyll/update/2019/05/29/welcome-to-jekyll.html</link>
-                <guid isPermaLink="true">http://localhost:4000/jekyll/update/2019/05/29/welcome-to-jekyll.html</guid>
             </item>
         
     </channel>

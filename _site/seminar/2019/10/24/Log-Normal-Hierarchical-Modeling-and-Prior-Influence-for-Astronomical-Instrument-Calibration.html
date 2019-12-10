@@ -14,20 +14,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Where and What to Look: Learning to Understand the Visual World in Autistic Brains | Homepage</title>
+<title>“Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration” | Homepage</title>
 <meta name="generator" content="Jekyll v3.8.6" />
-<meta property="og:title" content="Where and What to Look: Learning to Understand the Visual World in Autistic Brains" />
+<meta property="og:title" content="“Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration”" />
 <meta name="author" content="Ganghua Wang" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Speaker: Catherine Zhao (University of Minnesota, Twin Cities)" />
-<meta property="og:description" content="Speaker: Catherine Zhao (University of Minnesota, Twin Cities)" />
-<link rel="canonical" href="http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html" />
-<meta property="og:url" content="http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html" />
+<meta name="description" content="Speaker: Yang Chen, (Department of Statistics &amp; MIDAS, University of Michigan)" />
+<meta property="og:description" content="Speaker: Yang Chen, (Department of Statistics &amp; MIDAS, University of Michigan)" />
+<link rel="canonical" href="http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html" />
+<meta property="og:url" content="http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html" />
 <meta property="og:site_name" content="Homepage" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2019-09-03T11:25:55-05:00" />
+<meta property="article:published_time" content="2019-10-24T11:00:55-05:00" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html","headline":"Where and What to Look: Learning to Understand the Visual World in Autistic Brains","dateModified":"2019-09-03T11:25:55-05:00","datePublished":"2019-09-03T11:25:55-05:00","author":{"@type":"Person","name":"Ganghua Wang"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html"},"description":"Speaker: Catherine Zhao (University of Minnesota, Twin Cities)","@type":"BlogPosting","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html","headline":"“Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration”","dateModified":"2019-10-24T11:00:55-05:00","datePublished":"2019-10-24T11:00:55-05:00","author":{"@type":"Person","name":"Ganghua Wang"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html"},"description":"Speaker: Yang Chen, (Department of Statistics &amp; MIDAS, University of Michigan)","@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Homepage" /></head>
 <body><header class="site-header" role="banner">
@@ -49,38 +49,55 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
            <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Where and What to Look: Learning to Understand the Visual World in Autistic Brains</h1>
+    <h1 class="post-title p-name" itemprop="name headline">“Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration&quot;</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="2019-09-03T11:25:55-05:00" itemprop="datePublished">Sep 3, 2019
+      <time class="dt-published" datetime="2019-10-24T11:00:55-05:00" itemprop="datePublished">Oct 24, 2019
       </time></p>
   </header>
 
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>Speaker: Catherine Zhao (University of Minnesota, Twin Cities)</p>
+    <p>Speaker:  Yang Chen, (Department of Statistics &amp; MIDAS, University of Michigan)</p>
 
-<p>most about computer vision, feature learning, brain science.</p>
+<h3 id="background">Background</h3>
 
-<h2 id="motivation">Motivation</h2>
+<p>Relationship between flux, effective area and measurements. Want to know the property of astronomical object, like flux. Measurements depend on effective area, which differs for each instrument, also changes by time.</p>
 
-<p>Using deep learning to predict Autism.</p>
+<p>Problem: The data from different instruments don’t agree, due to a lot of reasons. How to fix?</p>
 
-<p>When focus on one thing, we lose attention to others.</p>
+<p>Goal: Know the effecitve area of each instruments to fix.</p>
 
-<p>different pattern of ASD and control in visual attetion, both spatial and temporal.</p>
+<p>Assume true effective area is $A_i$(unknown), and estimated $a_i$(known). Flux for each source $F_j$ (unkown). Photon counts $c_{ij}$ (observations)</p>
 
-<p>Track eye tracking, photo token by different groups of people, etc. Clinic tasks.</p>
+<p>Counts = ExposureTime * Effective Area * FLux, set time to 1.</p>
 
-<h2 id="techniques">Techniques</h2>
+<h3 id="model-loglinear-model-with-normal-error-term">Model: loglinear model with normal error term.</h3>
 
-<p>Deep learning, ResNet+?+LSTM+classifer</p>
+<p>$y_{ij}=log{c_{ij}}-\alpha_{ij}=B_i+G_i+e_{ij}, B_i=log A_i, G_i = logF_i, e_{ij}\sim N(0, \sigma^2_{ij})$</p>
 
-<h2 id="thoughts">Thoughts</h2>
+<p>$\alpha_{ij}=\frac{\sigma_{ij}^2}{2}$ , ==Half variance correction.==</p>
 
-<p>Well designed experiments for high quality data.</p>
+<h3 id="method-bayesian-hierarchical-model">Method: Bayesian hierarchical model</h3>
 
+<p>Piror $B_i \sim N(b_i, \tau_i^2), G_i \sim flat \ prior, \sigma \sim Inv-Gamma$</p>
 
-  </div><a class="u-url" href="/seminar/2019/09/03/Where-and-What-to-Look-Learning-to-Understand-the-Visual-World-in-Autistic-Brains.html" hidden></a>
+<p>==Sensitive to prior!== Where experts experience come in for choose prior.</p>
+
+<p>Investigate on condition number of variance of sigma, a big noise on B_i will make converge harder(worse posterior). (hurt identifiability)</p>
+
+<p>Using HMC to sampling.</p>
+
+<h3 id="advantages-using-bayesian-way">Advantages using Bayesian way:</h3>
+
+<p>Narrow confidence interval (small variance) can cause false discvoeries if it’s not reliable.</p>
+
+<p>Tolerance of model/error misspecification.</p>
+
+<h3 id="extension">Extension:</h3>
+
+<p>In order to compatible with Poisson assumption, extend normal to t distribution will give a better results for low Poisson parameter.</p>
+
+  </div><a class="u-url" href="/seminar/2019/10/24/Log-Normal-Hierarchical-Modeling-and-Prior-Influence-for-Astronomical-Instrument-Calibration.html" hidden></a>
 
 </article>
 
