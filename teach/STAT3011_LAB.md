@@ -105,15 +105,13 @@ Title: STAT3011
 
 - Week 14, Dec. 3, Linear regression.
 
-  **Please help me fill out TA evaluation form if you can come!** This form is **anonymous** and I’m not able to access it until next semester. Your feedback is important to me. 
-
-  [Homework 10](courses/stat3011_fall2019_hw10.pdf), [HW_R_problem_data](courses/STAT3011_HW10_R_problem_data.txt) **Due: Dec. 11, 11:59pm** 
+  [Homework 10](courses/stat3011_fall2019_hw10.pdf), [HW_R_problem_data](courses/STAT3011_HW10_R_problem_data.txt) 
 
   [LabHandout](courses/STAT3011_Fall2019_Week14Lab.pdf)
 
 - Week 15, Dec. 10, More on linear regression.
 
-  This is the last lab this semester. We’ll talk about another example of linear regression, involving fitting a lm, interpreting the results, predicting, hypothesis testing and diagnosis. Attendance is not required(as always), due to the weather. 
+  This is the last lab this semester. We’ll talk about another example of linear regression, involving fitting a lm, interpreting the results, predicting, hypothesis testing and diagnosis. Attendance is not required(as usual) due to the weather. 
   
   All sections are welcomed. Keep warm!
   
