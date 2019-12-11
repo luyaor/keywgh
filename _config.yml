@@ -36,9 +36,9 @@ kramdown:
   math_engine: mathjax
 
 algolia:
-  application_id: V4UHIOZW6N
+  application_id: H8IA69ZR1F
   index_name:     jekyll
-  search_only_api_key: a7b97e8a9c3fbd73eaf5dee5e5ff6291
+  search_only_api_key: 92c9476a6e5b4957150781bfd6027bc9
   files_to_exclude: 
       - index.html
       - index.md
