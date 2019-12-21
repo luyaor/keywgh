@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teach
+title: Teaching
 permalink: /teach/
 ---
 
@@ -28,4 +28,4 @@ permalink: /teach/
   </ol>
 </div>
 
-	
+​	
