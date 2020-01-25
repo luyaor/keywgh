@@ -48,7 +48,7 @@ algolia:
 header_pages: 
   - about/about.md
   - teach/index.md 
-  - other/index.md
+  # - other/index.md
   - blog/index.html
 plugins:
   - jekyll-feed
