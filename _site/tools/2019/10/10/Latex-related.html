@@ -94,6 +94,44 @@
   </li>
 </ul>
 
+<h2 id="figures-and-tables">Figures and Tables</h2>
+
+<ul>
+  <li>
+    <p>Mixed Alignment</p>
+
+    <ul>
+      <li>
+        <p><code class="highlighter-rouge">floatrow</code> Based Solution</p>
+
+        <div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{figure}</span>
+	<span class="k">\CenterFloatBoxes</span>
+	<span class="nt">\begin{floatrow}</span>
+		<span class="k">\ffigbox</span><span class="na">[\FBwidth]</span>
+		<span class="p">{</span><span class="k">\cpation</span><span class="p">{</span>figure caption goes here<span class="p">}</span><span class="k">\label</span><span class="p">{</span>fig: figure-label<span class="p">}}</span>
+		<span class="p">{</span>figure puts here<span class="p">}</span>
+		<span class="k">\killfloatstyle\ttabbox</span><span class="na">[\Xhsize]</span>
+		<span class="p">{</span><span class="k">\caption</span><span class="p">{</span>table caption goes  here<span class="p">}</span><span class="k">\label</span><span class="p">{</span>tab: table-label<span class="p">}}</span>
+		<span class="p">{</span>table puts here<span class="p">}</span>
+	<span class="nt">\end{floatrow}</span>
+<span class="nt">\end{figure}</span>
+</code></pre></div>        </div>
+
+        <ul>
+          <li>In two column environment, <code class="highlighter-rouge">\begin{figure}...\end{figure}</code> should be replaced by <code class="highlighter-rouge">\begin{figure*}...\begin{figure*}</code> if you want your mixed results occupy both of the columns.</li>
+          <li>If you have used <code class="highlighter-rouge">float</code> package, you can not use this solution. Because they are incompitable.</li>
+        </ul>
+      </li>
+      <li>
+        <p><code class="highlighter-rouge">minipage</code> Based Solution</p>
+
+        <p>After each mintage, use <code class="highlighter-rouge">\captionsetup{type=...}</code> to change float type.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
   </div><a class="u-url" href="/tools/2019/10/10/Latex-related.html" hidden></a>
 
 </article>
