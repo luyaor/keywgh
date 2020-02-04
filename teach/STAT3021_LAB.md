@@ -41,8 +41,6 @@ Title: STAT3021
   
 - Week 3, Feb. 4, Sample space, events and counting
 
-  I plan to talk about problem 1,2,4,5,6,10, and leave others as exercise(no need to submit). If you have any other questions, you can ask on class as well. A brief solution might be posted afterwards.
+  [LabHandout](courses/STAT3021/LabHandout3_3021_S19.pdf), [LabSolution](courses/STAT3021/Lab3_Sol.pdf)
   
-  Also, do you prefer the schedule to be arranged in time order or reverse order? 
   
-  [LabHandout](courses/STAT3021/LabHandout3_3021_S19.pdf) 
