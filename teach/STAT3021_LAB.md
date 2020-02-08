@@ -43,4 +43,6 @@ Title: STAT3021
 
   [LabHandout](courses/STAT3021/LabHandout3_3021_S19.pdf), [LabSolution](courses/STAT3021/Lab3_Sol.pdf)
   
-  
+- Week 4, Feb. 11, Review of integral
+
+  [LabHandout](courses/STAT3021/Lab4.pdf)
