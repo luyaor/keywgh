@@ -45,4 +45,7 @@ Title: STAT3021
   
 - Week 4, Feb. 11, Review of integral
 
-  [LabHandout](courses/STAT3021/Lab4.pdf)
+  Forget about the derivation of Example 2.
+  
+  [LabHandout](courses/STAT3021/Lab4_3021.pdf)
+
