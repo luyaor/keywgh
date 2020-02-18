@@ -51,7 +51,7 @@ Title: STAT3021
 
 - Week 5, Feb. 18, Exercise for calculating probability (Chapter 2.5-3.3)
 
-  [LabHandout](courses/STAT3021/LabWeek5_3021_S20.pdf)
+  [LabSolution](courses/STAT3021/LabWeek5Sol_3021_S20.pdf)
 
   
 
