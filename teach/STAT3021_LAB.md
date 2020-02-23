@@ -53,5 +53,24 @@ Title: STAT3021
 
   [LabSolution](courses/STAT3021/LabWeek5Sol_3021_S20.pdf)
 
-  
+- Week 6, Feb. 25, Review for Exam 1. 
 
+  Exam 1 covers Chapters 1 through 4.1. 
+
+  I intend to look at some old exam problems. Feel free to bring your questions.
+
+  [Sol_S18](courses/STAT3021/MidTermExamSol_3021_S18.pdf), [Sol_S19](courses/STAT3021/Exam1Sol_3021_S19.pdf)
+
+  If you ask, we can also review some confusing topics from what is listed below:
+
+  - Chapter 1 : sample vs population, sample mean, sample variance, sample standard deviation, shaped of distribution, histogram
+  - Chapter 2: sample space, Venn's diagram, events, intersection, union, mutually exclusive, conditional probability, independent event
+  - Chapter 2 : principal of counting, permutation, permutation in circle, permutation with identical items, combination, 
+  - Chapter 3 : random variable, probability distribution : discrete/continuous, f(x), F(x),
+  - Chapter 4: expected value
+
+- Week 7, Mar. 3, NO LAB.
+
+  We will grade your exam this week. Hopefully, release it before spring break. 
+
+  Have a good vacation!
