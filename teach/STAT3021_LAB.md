@@ -69,8 +69,10 @@ Title: STAT3021
   - Chapter 3 : random variable, probability distribution : discrete/continuous, f(x), F(x),
   - Chapter 4: expected value
 
-- Week 7, Mar. 3, NO LAB.
+- Week 7, Mar. 3, NO LAB, NO OH.
 
-  We will grade your exam this week. Hopefully, release it before spring break. 
+  We will grade your exam this week. Hopefully, release it before spring break.
 
+  Also, the OH this week will be ***cancelled*** as well. 
+  
   Have a good vacation!
