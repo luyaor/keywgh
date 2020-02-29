@@ -35,12 +35,20 @@ layout: home
   </div>	
   <div id="right_col">	
     <p class="lead">
-      Hi, I'm Ganghua Wang. I'm now a first-year Statistics Ph.D. student at the University of Minnesota. I obtained my BS degree from Peking University.</p> <p class="research">My research interests mainly lie in statistical learning methods and their applications, such as network analysis and neuroimaging. In both cases, the goal is to discover the hidden structure of the system, which helps better understanding the mechanism of the generating process of data. Challenges such as high dimensionality and weak signals have been posed by large scale data, therefore new techniques need to be proposed. Recent works on Markov Chain Monte Carlo is a promising tool to handle high dimensional situation.</p> <p class="end"> If you're interested in any of the areas and would like to discuss research or collaboration opportunities, feel free to email me or drop by my office.</p>
+      Hi, I'm Ganghua Wang. I'm currently a first-year Ph.D. student in the School of Statistics at the University of Minnesota. I obtained my BS degree in Statistics in<a href="http://english.math.pku.edu.cn" target="_blank"> the School of Mathematics Sciences</a>, Peking University.</p> 
+      <p class="research">My research interests mainly lie in statistical learning methods and their applications, such as network analysis and neuroimaging. Usually, I am motivated by some practical problem. Recently, I'm thinking about how to find a model which fits our model best. In other words, how to perform model selection. If you're interested in any of the areas and want to talk with me, feel free to email me or drop by my office.</p>
+
+   <p><strong>Education</strong></p>
+   <p>Ph.D., School of Statistics, University of Minnesota, August 2019 - present </p>
+   <p>B.S., Statistics, Peking University, 2019 </p>
   </div>
 
 </div>
 
-
+<hr style="clear:both;">
+  <p><br/>
+  <q style='float:right'> All models are wrong; some models are useful. <i>George Box</i></q>
+  </p>
 
 
 
