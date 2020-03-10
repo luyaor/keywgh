@@ -55,16 +55,13 @@ Title: STAT3021
 
 - Week 6, Feb. 25, Review for Exam 1. 
 
-  Exam 1 covers Chapters 1 through 4.1. 
-
   [Sol_S18](courses/STAT3021/MidTermExamSol_3021_S18.pdf), [Sol_S19](courses/STAT3021/Exam1Sol_3021_S19.pdf)
 
 - Week 7, Mar. 3, NO LAB, NO OH.
 
-  Also, the OH this week will be ***cancelled*** as well. 
-
-  Have a good vacation!
-  
 - Week 8, Spring break
 
+  Have a good vacation!
+
 - Week 9, Mar. 17, TBD
+
