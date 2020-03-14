@@ -63,5 +63,13 @@ Title: STAT3021
 
   Have a good vacation!
 
-- Week 9, Mar. 17, TBD
+- Week 9, Mar. 17, Cancelled
+
+- Week 10, Mar. 24, TBD
+
+  Well, according to recent updates on COVID-19, as university requires, all classes are turned to on-line instructions. Also, please practice social distancing, or whatever CDC and local health authorities and the U recommend. 
+
+  Stay safe, and hope everything goes well.
+
+  
 
