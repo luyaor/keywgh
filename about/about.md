@@ -6,8 +6,18 @@ permalink: /about/
 
 This is a personal website of Ganghua Wang, which is created by [Jekyll](https://jekyllrb.com/) and under construction. 
 
-
 ## Gallery
+
+### 2020
+
+> With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.
+> 
+> <cite>-- John von Neumann</cite>
+
+[How to fit an elephant like this $\rightarrow$]({% post_url 2020-3-20-How-to-fit-an-elephant %})
+![elephant](../assets/img/elephant.png){:  width="300px"} 
+
+<!-- ![elephant](../assets/img/elephant.png){: width=50% }-->
 
 ### *2019*
 

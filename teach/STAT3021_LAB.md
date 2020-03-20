@@ -23,6 +23,28 @@ Title: STAT3021
 
 {:/}
 
+## Announcement
+
+Well, according to recent updates on COVID-19, as you’ve already known, all classes are turned to on-line instructions. Here are the instructions for Lab and office hours for the remaining semester.
+
+1. Lab and office hours will be held during the original time through ZOOM. You can log in to ZOOM at [umn.zoom.us](http://umn.zoom.us/) and download the APP if needed. The link to the meeting room is [https://umn.zoom.us/j/187830689](https://www.google.com/url?q=https%3A%2F%2Fumn.zoom.us%2Fj%2F187830689). Meeting ID: 187 830 689. 
+
+   You can click on the icon below to add this event to your Google calendar.
+
+   [![img](https://www.google.com/calendar/images/ext/gc_button1_en.gif)](https://calendar.google.com/event?action=TEMPLATE&tmeid=amJycDRqdWN1ZGRtYTh1Y21nYmZodXFtZjhfMjAyMDAzMjRUMTQwMDAwWiB3YW5nOTAxOUB1bW4uZWR1&tmsrc=wang9019%40umn.edu&scp=ALL)
+
+2. For office hours, you can join the same meeting room above and unmute yourself to ask questions. You can also share your screen and write down anything you want to show me. Please wait if others are asking questions.
+
+3. Feel free to join any lab section and ask questions at any time. Here are some **Online etiquette:**
+
+   - Use headphones if possible. Mute yourself (unless you are talking). 
+   - Don’t interrupt when another student is talking.
+   - When something weird happens on the screen, or the sound stops, speak up or send a chat message in Zoom. My screen layout is somewhat different from the participants' screen.
+
+4. If you have any questions, like you’re unfamiliar with ZOOM, don’t hesitate to reach out.
+
+5. At last, stay healthy, take care of yourselves.
+
 
 
 ## Schedule
@@ -67,9 +89,4 @@ Title: STAT3021
 
 - Week 10, Mar. 24, TBD
 
-  Well, according to recent updates on COVID-19, as university requires, all classes are turned to on-line instructions. Also, please practice social distancing, or whatever CDC and local health authorities and the U recommend. 
-
-  Stay safe, and hope everything goes well.
-
   
-
