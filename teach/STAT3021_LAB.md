@@ -87,6 +87,12 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
 
 - Week 9, Mar. 17, Cancelled
 
-- Week 10, Mar. 24, TBD
+- Week 10, Mar. 24, Exercise for common distribution
 
+  We will cover:
   
+  1. Binomial distribution: Exercise 5.5 and 5.6 (page 150)
+  2. Continuous uniform distribution & Normal distribution: Exercise 6.4, 6.6, 6.9
+  
+  [LabHandout](courses/STAT3021/note7.pdf), [Z-socre and normal distribution](courses/STAT3011/notes5.pdf)
+
