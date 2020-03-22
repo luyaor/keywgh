@@ -6,11 +6,22 @@ permalink: /about/
 <style>
 blockquote {
   background: #f9f9f9;
-  border-left: 10px solid #abc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  border-left: 10px solid #ccc;
+  margin: 0 auto;
+  padding: 0 auto;
 }
-
+#wrap {
+   width:700px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:250px;
+}
+#right_col {
+   float:right;
+   width:400px;
+}
 .h1s{
 color: #1F70CB;
 text-decoration: underline;
@@ -25,10 +36,15 @@ This is a personal website of Ganghua Wang, which is created by [Jekyll](https:/
 
 ### *2020*{: .h1s}
 
+
 ![elephant](../assets/img/elephant.png){:  width="300px" style='float:left; margin-right: 5%'} 
-> With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.
-> 
-> <cite>-- John von Neumann</cite>
+
+<div id="right_col">
+<blockquote style='float:right'>
+<p text-align="left">With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. </p> <cite style='float:right'>-- John von Neumann</cite>
+</blockquote>
+</div>
+
 
 [$\leftarrow$ How to fit an elephant like this]({% post_url 2020-3-20-How-to-fit-an-elephant %})
 <p style="clear:both"></p>
@@ -59,10 +75,11 @@ A comic from [PhD comics](http://phdcomics.com/comics/archive.php?comicid=124).
 
 ![drunkbird](../assets/img/drunkbird.jpeg){:  width="300px" style="float: left; margin-right:5%"} 
 
-> A drunk man will find his way home, but a drunk bird may get lost forever.
-> 
-> <cite>-- Shizuo Kakutani</cite> 
-
+<div id="right_col">
+<blockquote style='float:right'>
+<p text-align="left">A drunk man will find his way home, but a drunk bird may get lost forever. </p> <cite style='float:right'>-- Shizuo Kakutani</cite>
+</blockquote>
+</div>
 
 Credit to my instructor of *Applied Stochastic Processes*, [Prof. Dayue Chen](http://www.math.pku.edu.cn/teachers/dayue/indexE.htm).
 
