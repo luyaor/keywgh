@@ -6,9 +6,11 @@ permalink: /about/
 <style>
 blockquote {
   background: #f9f9f9;
+  border-left: 10px solid #abc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
+
 .h1s{
 color: #1F70CB;
 text-decoration: underline;
@@ -22,7 +24,6 @@ This is a personal website of Ganghua Wang, which is created by [Jekyll](https:/
 ## Gallery
 
 ### *2020*{: .h1s}
-
 
 ![elephant](../assets/img/elephant.png){:  width="300px" style='float:left; margin-right: 5%'} 
 > With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.
