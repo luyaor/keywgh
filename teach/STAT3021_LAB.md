@@ -23,7 +23,7 @@ Title: STAT3021
 
 {:/}
 
-## Announcement
+<!-- ## Announcement
 
 Well, according to recent updates on COVID-19, as you’ve already known, all classes are turned to on-line instructions. Here are the instructions for Lab and office hours for the remaining semester.
 
@@ -43,7 +43,7 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
 
 4. If you have any questions, like you’re unfamiliar with ZOOM, don’t hesitate to reach out.
 
-5. At last, stay healthy, take care of yourselves.
+5. At last, stay healthy, take care of yourselves. -->
 
 
 
@@ -94,5 +94,5 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
   1. Binomial distribution: Exercise 5.5 and 5.6 (page 150)
   2. Continuous uniform distribution & Normal distribution: Exercise 6.4, 6.6, 6.9
   
-  [LabHandout](courses/STAT3021/note7.pdf), [Z-socre and normal distribution](courses/STAT3011/notes5.pdf)
+  [LabHandout](courses/STAT3021/note7.pdf), [Z-socre and normal distribution](courses/STAT3011/notes5.pdf), [written note](courses/STAT3021/week10.jpeg)
 
