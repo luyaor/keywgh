@@ -96,3 +96,7 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
   
   [LabHandout](courses/STAT3021/note7.pdf), [Z-socre and normal distribution](courses/STAT3011/notes5.pdf), [written note](courses/STAT3021/week10.jpeg)
 
+- Week 11, Mar. 31, Exercise for sampling distribution
+
+  We will cover: Exercise 8.20, 8.21, 8.25, 8.29
+
