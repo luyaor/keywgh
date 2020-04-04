@@ -503,3 +503,7 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+@font-face {
+  font-family: "myFont";
+  src: url("../assets/fonts/ghostw.ttf"); }

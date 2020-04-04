@@ -7,6 +7,35 @@
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>“面朝大海春暖花开&quot;</title>
+                        
+                
+                    <description>&lt;p style=&quot;font-family: myFont; font-size: 28&quot;&gt;
+&lt;font size=&quot;18&quot;&gt;
+从明天起，做一个幸福的人&lt;br /&gt;
+喂马，劈柴，周游世界&lt;br /&gt;
+从明天起，关心粮食和蔬菜&lt;br /&gt;
+我有一所房子，面朝大海，春暖花开&lt;br /&gt;
+从明天起，和每一个亲人通信&lt;br /&gt;
+告诉他们我的幸福&lt;br /&gt;
+那幸福的闪电告诉我的&lt;br /&gt;
+我将告诉每一个人&lt;br /&gt;
+给每一条河每一座山取一个温暖的名字&lt;br /&gt;
+陌生人，我也为你祝福&lt;br /&gt;
+愿你有一个灿烂的前程&lt;br /&gt;
+愿你有情人终成眷属&lt;br /&gt;
+愿你在尘世获得幸福&lt;br /&gt;
+我只愿面朝大海，春暖花开&lt;br /&gt;
+&lt;/font&gt;
+&lt;/p&gt;
+</description>
+                
+                <pubDate>Sat, 04 Apr 2020 16:07:55 -0500</pubDate>
+                <link>http://localhost:4000/story/2020/04/04/%E9%9D%A2%E6%9C%9D%E5%A4%A7%E6%B5%B7%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.html</link>
+                <guid isPermaLink="true">http://localhost:4000/story/2020/04/04/%E9%9D%A2%E6%9C%9D%E5%A4%A7%E6%B5%B7%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.html</guid>
+            </item>
+        
+            <item>
                 <title>“How to fit an elephant&quot;</title>
                         
                 
@@ -185,19 +214,6 @@ Am. J. Phys. 78, 648 (2010), DOI:10.1119/1.3254017
                 <pubDate>Tue, 24 Sep 2019 14:30:55 -0500</pubDate>
                 <link>http://localhost:4000/seminar/2019/09/24/Convergence-complexity-analysis-for-Markov-Chain.html</link>
                 <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/24/Convergence-complexity-analysis-for-Markov-Chain.html</guid>
-            </item>
-        
-            <item>
-                <title>“Modern Maximum-Likelihood Theory for High-Dimensional Logistic Regression&quot;</title>
-                        
-                
-                    <description>&lt;p&gt;Speaker: Pragya Sur (Harvard University)&lt;/p&gt;
-
-</description>
-                
-                <pubDate>Thu, 19 Sep 2019 11:00:55 -0500</pubDate>
-                <link>http://localhost:4000/seminar/2019/09/19/Maximum-Likelihood-Theory-for-High-Dimensional-Logistic-Regression.html</link>
-                <guid isPermaLink="true">http://localhost:4000/seminar/2019/09/19/Maximum-Likelihood-Theory-for-High-Dimensional-Logistic-Regression.html</guid>
             </item>
         
     </channel>

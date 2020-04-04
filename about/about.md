@@ -3,6 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
+
 <style>
 blockquote {
   background: #f9f9f9;
@@ -26,7 +27,6 @@ blockquote {
   float: left;
   width: 33.33%;
 }
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -38,6 +38,7 @@ color: #1F70CB;
 text-decoration: underline;
 }
 </style>
+
 [comment]: <> FF0234(red) FF7902(orange) 1F70CB(blue)
 
 
