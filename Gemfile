@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem 'jemoji', '~> 0.11.0'
   gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-paginate-v2', '~>3.0.0'
   # gem 'jekyll-gdrive'
 end
 

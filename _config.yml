@@ -27,11 +27,10 @@ google_analytics: UA-141229469-1
 disqus:
   shortname: ghostw
 # Build settings
-markdown: kramdown
+
 theme: minima
 
-# gdrive:
-#   sheet: "STAT3011"
+markdown: kramdown
 kramdown:
   math_engine: mathjax
 
@@ -50,9 +49,24 @@ header_pages:
   - teach/index.md 
   # - other/index.md
   - blog/index.html
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/:num.html'
+  collection: 'posts'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  title: Blog
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-paginate-v2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

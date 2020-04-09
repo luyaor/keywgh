@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Blog
+pagination: 
+  enabled: true
+  title: Blog
 ---
+<link rel="stylesheet" href="/assets/css/paginate.css" />
 
- <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  
-  <div class="post-list" id="search-hits">
-    {% for post in site.posts %}
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
     {% unless post.hidden %}
       <div class="post-item">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -20,6 +22,65 @@ title: Blog
       </div>
     {% endunless %}
     {% endfor %}
-  </div>
 
- 
+
+<!-- <div class="paginate wrapper">
+  <ul>
+{% if paginator.total_pages > 1 %}
+  {%- if paginator.previous_page -%}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+  <p style="float: right">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+{% endif %}
+  </ul>
+</div> -->
+
+<div class="paginate wrapper">
+  <ul>
+  {%- if paginator.total_pages > 1 -%}
+
+    {% if paginator.page > 2 -%}
+    <li><a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;&lt;</a></li>
+    {%- endif -%}
+
+    {%- if paginator.previous_page -%}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Prev</a></li>
+    {%- endif -%}
+
+    {%- if paginator.page_trail -%}
+      {%- for trail in paginator.page_trail -%}
+        <li><a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}" {%- if paginator.page == trail.num -%}class="active"{%- endif -%}>{{ trail.num }}</a></li>
+      {%- endfor -%}
+    {%- endif -%}
+
+    {%- if paginator.next_page -%}
+    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a></li>
+    {%- endif -%}
+
+    {%- assign notNearEnd = paginator.page | plus:1 -%}
+    {%- if notNearEnd < paginator.total_pages  -%}
+    <li><a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">&gt;&gt;</a></li>
+    {%- endif -%}
+    <p style="float: right">Subscribe via <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
+  {%- endif -%}
+  </ul>
+</div>

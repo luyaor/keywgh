@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
     <channel>
-        <title>Homepage</title>
+        <title></title>
         <description>Nice to meat you.</description>      
+        <sy:updatePeriod>daily</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 04 Apr 2020 16:07:55 -0500</lastBuildDate>
+        
         
             <item>
                 <title>面朝大海春暖花开</title>
-                        
+                
                 
                     <description>&lt;p style=&quot;font-family: myFont; &quot;&gt;
 
@@ -22,7 +30,7 @@
         
             <item>
                 <title>How to fit an elephant</title>
-                        
+                
                 
                     <description>&lt;p&gt;Cited from &lt;a href=&quot;https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/&quot;&gt;John D. Cook&lt;/a&gt;&lt;/p&gt;
 
@@ -35,7 +43,7 @@
         
             <item>
                 <title>Umn Traveler Project 2019</title>
-                        
+                
                 
                     <description>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -50,7 +58,7 @@
         
             <item>
                 <title>Improved Observation-based Simulations of Temperature and Humidity Accounting for Projected Variability Changes from a Climate Model</title>
-                        
+                
                 
                     <description>&lt;p&gt;Speaker:   Andrew Poppick, Assistant Professor of Statistics at Carleton College&lt;/p&gt;
 
@@ -63,7 +71,7 @@
         
             <item>
                 <title>Jekyll related topics</title>
-                        
+                
                 
                     <description>&lt;p&gt;Some questions met when constructing website, along with solution.&lt;/p&gt;
 
@@ -76,7 +84,7 @@
         
             <item>
                 <title>Applying Principles of Statistical Design to Adaptive Probabilistic Differential Equation Solvers</title>
-                        
+                
                 
                     <description>&lt;p&gt;Speaker:   Oksana Chkrebtii, Department of Statistics, The Ohio State University&lt;/p&gt;
 
@@ -89,7 +97,7 @@
         
             <item>
                 <title>Effective communication</title>
-                        
+                
                 
                     <description>&lt;p&gt;http://www.lisabmarshall.com&lt;/p&gt;
 </description>
@@ -101,7 +109,7 @@
         
             <item>
                 <title>Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration</title>
-                        
+                
                 
                     <description>&lt;p&gt;Speaker:  Yang Chen, (Department of Statistics &amp;amp; MIDAS, University of Michigan)&lt;/p&gt;
 
@@ -114,7 +122,7 @@
         
             <item>
                 <title>Latex related topics</title>
-                        
+                
                 
                     <description>&lt;p&gt;A learning note for latex.&lt;/p&gt;
 
@@ -127,7 +135,7 @@
         
             <item>
                 <title>Interface of Statistics and Computing</title>
-                        
+                
                 
                     <description>&lt;p&gt;Speaker: Yazhen Wang (University of Wisconsin-Madison)&lt;/p&gt;
 </description>
