@@ -58,7 +58,6 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  title: Blog
   trail: 
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
