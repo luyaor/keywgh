@@ -4,7 +4,7 @@ language: ruby
 cache: bundler
 before_install:
   - gem install bundler
-script:
+script: ./assets/cibuild.sh
   # - bundle exec jekyll algolia
   bundle exec jekyll build
 
