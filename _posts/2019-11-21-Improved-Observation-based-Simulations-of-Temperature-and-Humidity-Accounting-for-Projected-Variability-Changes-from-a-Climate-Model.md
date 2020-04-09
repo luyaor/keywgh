@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Improved Observation-based Simulations of Temperature and Humidity Accounting for Projected Variability Changes from a Climate Model"
+title:  Improved Observation-based Simulations of Temperature and Humidity Accounting for Projected Variability Changes from a Climate Model
 date:   2019-11-21 11:00:55 -0500
 categories: seminar
 
-
+hidden: true
 ---
 
 Speaker:   Andrew Poppick, Assistant Professor of Statistics at Carleton College

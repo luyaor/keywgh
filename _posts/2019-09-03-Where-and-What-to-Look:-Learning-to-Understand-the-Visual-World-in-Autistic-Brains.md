@@ -3,6 +3,7 @@ layout: post
 title: "Where and What to Look: Learning to Understand the Visual World in Autistic Brains"
 date:   2019-09-03 11:25:55 -0500
 categories: seminar
+hidden: true
 ---
 
 Speaker: Catherine Zhao (University of Minnesota, Twin Cities)

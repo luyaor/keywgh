@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  “Convergence complexity analysis for Markov Chain"
+title:  Convergence complexity analysis for Markov Chain
 date:   2019-09-24 14:30:55 -0500
 categories: seminar
-
+hidden: true
 ---
 
 Speaker: Qian Qin (University of Minnesota - TC)

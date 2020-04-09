@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration"
+title:  Log-Normal Hierarchical Modeling and Prior Influence for Astronomical Instrument Calibration
 date:   2019-10-24 11:00:55 -0500
 categories: seminar
 

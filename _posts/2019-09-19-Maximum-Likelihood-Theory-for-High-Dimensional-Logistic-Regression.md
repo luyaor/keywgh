@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Modern Maximum-Likelihood Theory for High-Dimensional Logistic Regression"
+title:  "Modern Maximum-Likelihood Theory for High-Dimensional Logistic Regression"
 date:   2019-09-19 11:00:55 -0500
 categories: seminar
 
@@ -28,7 +28,9 @@ Obeservation: MLE will have systematic shift on both magnitudes and variance. Wi
 
 When finite sample, do correction. Like LRT first order correction. $\mathbb{E}(-2 lnLRT) \sim 1+\frac{\alpha}{n}+O(1/n^2)$, which not enough for high dimension. 
 
-### High dimensional behavior($p, n \to \infty, p/n \text{ to a constant } \kappa$).
+### High dimensional behavior
+
+($p, n \to \infty, p/n \text{ to a constant } \kappa$).
 
 $\hat{\beta}-\alpha\beta\to N(0, \sigma^2_{h.d})$, which has a larger variance than classical result.
 

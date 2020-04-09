@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  “How to fit an elephant"
+title:  "How to fit an elephant"
 date:   2020-3-20 14:47:55 -0500
 categories: story
 
 
 ---
 
-> Cited from [John D. Cook](https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/) 
+Cited from [John D. Cook](https://www.johndcook.com/blog/2011/06/21/how-to-fit-an-elephant/) 
+
 >
 > John von Neumann famously said
 >

@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  “Latex related topics"
+title:  "Latex related topics"
 date:   2019-10-10 22:25:55 -0500
 categories: tools
 
 
 ---
 
-
+A learning note for latex.
 
 ## For symbols
 
-- [Quick table](/assets/resource/Symbols.pdf)
+- [Quick reference](/assets/resource/Symbols.pdf)
 
 - Using Roman
 

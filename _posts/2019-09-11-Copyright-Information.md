@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Copyright Information"
+title:  Copyright Information
 date:   2019-09-11 20:30:55 -0500
-categories: tips
+categories: tools
+hidden: true
 ---
 
 
