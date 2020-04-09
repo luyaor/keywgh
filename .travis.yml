@@ -6,7 +6,7 @@ before_install:
   - gem install bundler
 script: ./assets/cibuild.sh
   # - bundle exec jekyll algolia
-  bundle exec jekyll build
+  # bundle exec jekyll build
 
 branches:
   only:
