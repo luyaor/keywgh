@@ -89,19 +89,17 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
 
 - Week 10, Mar. 24, Exercise for common distribution
 
-  We will cover:
-  
-  1. Binomial distribution: Exercise 5.5 and 5.6 (page 150)
-  2. Continuous uniform distribution & Normal distribution: Exercise 6.4, 6.6, 6.9
-  
   [LabHandout](courses/STAT3021/note7.pdf), [Z-socre and normal distribution](courses/STAT3011/notes5.pdf), [written note](courses/STAT3021/week10.jpeg)
 
 - Week 11, Mar. 31, Exercise for sampling distribution
 
   [written note](courses/STAT3021/note8.pdf)
   
-  Good luck!
-  
 - Week 12, April. 7, NO LAB, NO OH.
 
-- Week 13, April. 14, TBD.
+- Week 13, April. 14, One and two sample t-test.
+
+  We will analyze Getting To Know You Survey Dataset.
+  
+  [LabHandout](courses/STAT3021/LabHandoutWeek12Solution_3021_S20.pdf), [Code](courses/STAT3011/lab12.Rmd).
+
