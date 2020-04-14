@@ -44,10 +44,12 @@ mu
 ```{r}
 sigma = sd(social.Fr)  # sd of population
 n = length(social.Fr)  # sample size
-se = sigma/sqrt(n)  # se of mean
+se = sigma/sqrt(n)  # se of sample mean
 se
 ```
 
+$moe = multiplier*se$, strictly speaking, t-multiplier t($1-e/2$ ,df=n-1), error rate $e=1-\alpha$, $\alpha$ is confidence level.
+When sample size n is large enough, say, n>30, we can use multiplier $z = qnorm(1-e/2)$ to approximate t-multiplier.(They're about the same) 
 ## (g)
 ```{r}
 e = 0.02
@@ -83,6 +85,6 @@ sd(social.Sr)
 ## (l)
 ```{r}
 t.test(x=social.Fr, y=social.Sr, conf.level=0.98, alternative="two.sided", var.equal=TRUE)
-# t.test(x=social.Fr, y=social.Sr, conf.level=0.98, alternative="two.sided", var.equal=F)  # using an approximate test called Welch t-test when variance of two samples are unequal. 
+# t.test(x=social.Fr, y=social.Sr, conf.level=0.98, alternative="two.sided", var.equal=F)  # using an approximate test called Welch t-test when variance of two samples are unequal.
 ```
 

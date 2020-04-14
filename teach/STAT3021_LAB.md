@@ -101,5 +101,7 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
 
   We will analyze Getting To Know You Survey Dataset.
   
+  Please notice that solution of (g) and (h) is not strict. I gave an explanation but if you feel confused, just follow what instructor said in lecture. Also, there‘re some typos in (k).
+  
   [LabHandout](courses/STAT3021/LabHandoutWeek12Solution_3021_S20.pdf), [Code](courses/STAT3011/lab12.Rmd).
 
