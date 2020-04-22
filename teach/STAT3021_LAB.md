@@ -99,9 +99,15 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
 
 - Week 13, April. 14, One and two sample t-test.
 
-  We will analyze Getting To Know You Survey Dataset.
-  
-  Please notice that solution of (g) and (h) is not strict. I gave an explanation but if you feel confused, just follow what instructor said in lecture. Also, there‘re some typos in (k).
-  
   [LabHandout](courses/STAT3021/LabHandoutWeek12Solution_3021_S20.pdf), [Code](courses/STAT3011/lab12.Rmd).
+
+- Week 14, April. 23, Another example about two sample t-test.
+
+  Comment: ggplot2 is one of the most powerful and well-designed package in R, which allows you to produce fancy figures.
+  
+  [LabHandout](courses/STAT3021/Lab13Rcommands_3021_HypTest.pdf), [Code](courses/STAT3011/lab13.Rmd).
+
+- Week 15, April. 28, TBD
+
+  Time goes so fast, we’re almost at the end of this semester. This will be last lab and good luck to your final!
 
