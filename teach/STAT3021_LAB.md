@@ -107,7 +107,12 @@ Well, according to recent updates on COVID-19, as you’ve already known, all cl
   
   [LabHandout](courses/STAT3021/Lab13Rcommands_3021_HypTest.pdf), [Code](courses/STAT3021/lab13.Rmd).
 
-- Week 15, April. 28, TBD
+- Week 15, April. 28, No lab. OH is as usual.
 
-  Time goes so fast, we’re almost at the end of this semester. This will be last lab and good luck to your final!
+  There is no lab materials this week, instructor will upload videos to review Chapter 8,9,10. I will still hold office hour, if you have any questions about practical assignments or final exam, feel free to ask me. 
+  
+  
+  
+
+**Ending:** Time flies, we’re almost at the end of this semester. I’d like to thank you all for your participation. Also, I do hope you learn something useful from this class. At last, good luck!
 
